@@ -1,11 +1,11 @@
 # AtliQ_Hospitality_Analysis_PowerBI
 As part of the  codebasics  resume challenge, I have worked on this analysis project.
 
-Link to the Challenge
+Link to the Challenge https://codebasics.io/challenge/codebasics-resume-project-challenge
 
-Link to Interactive Dashboard
+Link to Interactive Dashboard  https://www.novypro.com/project/revenue-insight-in-hospitality
 
-Link to Presentation Video
+
 
 **Problem Statement**
 Atliq Grands, a prominent player in the luxury/business hotel industry in India, is facing challenges in retaining its market share and revenue due to competitive pressures and management inefficiencies. To address this, the managing director has identified the need to integrate business and data intelligence into their operations. However, lacking an in-house data analytics team, they have decided to enlist the expertise of a third-party service provider to analyze their historical data and derive actionable insights.
