@@ -8,9 +8,13 @@ Link to Interactive Dashboard  https://www.novypro.com/project/revenue-insight-i
 
 
 **Problem Statement**
+
+
 Atliq Grands, a prominent player in the luxury/business hotel industry in India, is facing challenges in retaining its market share and revenue due to competitive pressures and management inefficiencies. To address this, the managing director has identified the need to integrate business and data intelligence into their operations. However, lacking an in-house data analytics team, they have decided to enlist the expertise of a third-party service provider to analyze their historical data and derive actionable insights.
 
 **TaskList**
+
+
 As a data analyst assigned to this project, your tasks include:
 
 Developing key metrics based on the provided metric list.
