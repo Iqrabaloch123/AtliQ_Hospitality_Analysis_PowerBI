@@ -22,12 +22,18 @@ These steps will facilitate Atliq Grands in making informed decisions to regain 
 ![hospita;ity mock up](https://github.com/Iqrabaloch123/AtliQ_Hospitality_Analysis_PowerBI/assets/130351579/3bd0b1d6-5a68-4b2e-a2dd-9fab16d745ee)
 
 **Data Model**
+
+
 ![hos model veiw](https://github.com/Iqrabaloch123/AtliQ_Hospitality_Analysis_PowerBI/assets/130351579/cda91e95-c13d-4249-8f2d-9db7f3238705)
 
 **Overall Analysis View**
+
+
 ![finale dashboard](https://github.com/Iqrabaloch123/AtliQ_Hospitality_Analysis_PowerBI/assets/130351579/4b097789-2df6-4a1b-b1d4-1f40fe479a9a)
 
 **Some Important insights from the Dashboard**
+
+
 1. Mumbai stands out as the top revenue generator, boasting a significant income of 669 million units, followed closely by Bangalore, Hyderabad, and Delhi.
 
 2. AtliQ Exotica emerges as the highest-performing property among the seven types, achieving an impressive revenue of 320 million units. Additionally, it boasts a commendable rating of 3.62, a occupancy rate of 57%, and a cancellation rate of 24.4%.
